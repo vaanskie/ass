@@ -1,0 +1,13 @@
+#Format: Slots,Skill1,Points1,Skill2,Points2
+3,Ammo Saver,5,Chain Crit,4
+0,Crit Draw,4,Expert,10
+2,Tenderizer,4,Thunder Atk,8
+3,Crit Status,5,,
+2,Crit Element,5,Mounting,10
+2,Sheathing,10,,
+0,Expert,10,Crit Draw,4
+0,Artillery,10,Crit Draw,4
+2,Tenderizer,5,,
+3,Spirit,5,,
+0,Eating,4,Expert,10
+3,ColdBlooded,4,Mounting,8
